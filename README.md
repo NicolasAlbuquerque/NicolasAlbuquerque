@@ -1,18 +1,23 @@
 <h1 align ="center"> Hello World! Eu sou o Nicolas! 🧟‍♂️</h1>
 
-<h4>Sobre: </h4>
-<img align="right" src="mao.gif" alt="drawing" width="300"/>
-<p>Graduando em Análise e Desenvolvimento de Sistemas, formado em <br>
-  comunicação visual pela Etec de Vila Formosa, onde pude criar projetos <br>
-  com ferramentas de ilustração e pintura, adquiri conhecimentos técnicos <br>
-  no pacote adobe, com ênfase em Illustrator e Photoshop. <br>
-  Concluí o Bootcamp Java Full Stack da Generation, onde desenvolvi<br> 
-  hardskills voltadas para a Metodologia Scrum,  desenvolvimento <br>
-  em Linguagem Java, banco de dados MySQL, utilização do <br>
-  Framework SpringBoot e também React, Insomnia, Git /GitHub e HTML e CSS. <br>
-  Atuei como auxiliar de processos gráficos, com criação de artes digitais<br>
-  e identidades visuais; Onde Desenvolvi softskills que pretendo utilizar em futuras atribuições<br>
- em futuras atribuições tribuições profissionais como desenvolvedor Full Stack.</p><br>
+<h4 aling="center">Sobre: </h4>
+<div align="left">
+<img align="right" src="mao.gif" alt="drawing" width="350"/>
+<p align ="center">Graduando em Análise e Desenvolvimento de Sistemas,<br> 
+  formado em comunicação visual pela Etec de Vila Formosa,<br>
+  onde pude criar projetos com ferramentas de ilustração e<br>
+  pintura, adquiri conhecimentos técnicos no pacote adobe,<br>
+  com ênfase em Illustrator e Photoshop. <br>
+  Concluí o Bootcamp Java Full Stack da Generation, onde <br>
+  desenvolvi hardskills voltadas para a Metodologia Scrum, <br>
+  desenvolvimento em Linguagem Java, banco de dados MySQL,<br>
+  utilização do   Framework SpringBoot e também React, <br>
+  Insomnia, Git /GitHub e HTML e CSS. <br>
+  Atuei como auxiliar de processos gráficos, com criação <br>
+  de artes digitais e identidades visuais; Onde Desenvolvi <br>
+  softskills que pretendo utilizar em futuras atribuições<br>
+ em futuras atribuições tribuições profissionais como <br>
+  desenvolvedor Full Stack.</p></div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/albuquerquenicolas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -30,19 +35,23 @@
 </div>
 
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="ILLUSTRATOR" src="https://aleen42.github.io/badges/src/illustrator.svg" />
-      <img align="center" alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg" />
+ 
+  <div align= "center" ><br>
+   <h3 aling ="center"> Linguagens e Tecnologias </h3>
+  <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Nicolas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Nicolas-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Nicolas-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="ILLUSTRATOR" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+  <img align="center" alt="PHOTOSHOP" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
+  
+  ![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
 
-    </div><br/>
+  </div>
 
 
 
-![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
+
