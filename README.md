@@ -9,3 +9,6 @@ Atuei como auxiliar de processos gráficos, com criação de artes digitais e id
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=NicolasAlbuquerque&show_icons=true,css&layout=compact&theme=blue-green" />
   <img align= "center" width="313px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAlbuquerque&layout=compact&theme=blue-green" />
 </div>
+
+
+![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
