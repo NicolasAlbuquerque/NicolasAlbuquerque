@@ -19,6 +19,7 @@
  em futuras atribuições tribuições profissionais como <br>
   desenvolvedor Full Stack.</p></div>
 <br>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/albuquerquenicolas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
