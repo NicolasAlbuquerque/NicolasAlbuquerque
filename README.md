@@ -16,8 +16,7 @@
   Atuei como auxiliar de processos gráficos, com criação <br>
   de artes digitais e identidades visuais; Onde Desenvolvi <br>
   softskills que pretendo utilizar em futuras atribuições<br>
- em futuras atribuições tribuições profissionais como <br>
-  desenvolvedor Full Stack.</p></div>
+ profissionais como desenvolvedor Full Stack.</p></div>
 <br>
 <br>
 <div align="center">
