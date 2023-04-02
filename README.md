@@ -20,12 +20,14 @@
 <br>
 <br>
 
-##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/albuquerquenicolas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
   <br><br>
 <div align ="center">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=NicolasAlbuquerque&show_icons=true,css&layout=compact&theme=blue-green" />
