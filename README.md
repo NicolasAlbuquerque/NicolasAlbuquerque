@@ -13,7 +13,7 @@
   desenvolvi hardskills voltadas para a Metodologia Scrum, <br>
   desenvolvimento em Linguagem Java, banco de dados MySQL,<br>
   utilização do   Framework SpringBoot e também React, <br>
-  Insomnia, Git /GitHub e HTML e CSS. <br>
+  Insomnia, HTML e CSS. <br>
   Atuei como auxiliar de processos gráficos, com criação <br>
   de artes digitais e identidades visuais; Onde Desenvolvi <br>
   softskills que pretendo utilizar em futuras atribuições<br>
