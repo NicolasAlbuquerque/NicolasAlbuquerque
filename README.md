@@ -4,6 +4,7 @@
 <div align="left">
 <img align="right" src="mao.gif" alt="drawing" width="350"/>
   <br> 
+  <br>
 <p align ="center">Graduando em Análise e Desenvolvimento de Sistemas,<br> 
   formado em comunicação visual pela Etec de Vila Formosa,<br>
   onde pude criar projetos com ferramentas de ilustração e<br>
