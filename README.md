@@ -13,8 +13,8 @@
   Concluí o Bootcamp Java Full Stack da Generation, onde <br>
   desenvolvi hardskills voltadas para a Metodologia Scrum, <br>
   desenvolvimento em Linguagem Java, banco de dados MySQL,<br>
-  utilização do   Framework SpringBoot e também React, <br>
-  Insomnia, HTML e CSS. <br>
+  utilização do   Framework SpringBoo, teste de Rotas no Insomnia, <br>
+   HTML, CSS e React. <br>
   Atuei como auxiliar de processos gráficos, com criação <br>
   de artes digitais e identidades visuais; Onde Desenvolvi <br>
   softskills que pretendo utilizar em futuras atribuições<br>
