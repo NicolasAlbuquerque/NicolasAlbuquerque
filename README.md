@@ -44,6 +44,7 @@
   <div align= "center" ><br>
    <h3 aling ="center"> Linguagens e Tecnologias </h3>
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JS" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
@@ -52,6 +53,7 @@
   <img align="center" alt="Nicolas-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="ILLUSTRATOR" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
   <img align="center" alt="PHOTOSHOP" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
+    
   
   ![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
 
